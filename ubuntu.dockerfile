@@ -6,3 +6,4 @@ EXPOSE 8080/tcp 8999/tcp
 EXPOSE 8999/udp
 
 CMD ["/usr/bin/qbittorrent-nox"]
+
